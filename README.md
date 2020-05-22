@@ -14,9 +14,9 @@ This project is an analysis of bikeshare data from Washington, Chicago, and New 
 ### Files used
 The following files are part of this project:
 
-1. README.md: this files
-2. Explore_bikeshare_data.ipynb: the Jupyter R notebook with the analysis
-3. Explore_bikeshare_data.html: the Jupyter R notebook exported in HTML format
+1. **README.md**: this files
+2. **Explore_bikeshare_data.ipynb**: the Jupyter R notebook with the analysis
+3. **Explore_bikeshare_data.html**: the Jupyter R notebook exported in HTML format
 
 To run the notebook, CSV files with the bike share data are needed: chicago.csv for Chicago, washington.csv for Washington, and newyork_city.csv for Chicago.
 
