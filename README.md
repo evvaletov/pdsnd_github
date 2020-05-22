@@ -21,4 +21,4 @@ The following files are part of this project:
 To run the notebook, CSV files with the bike share data are needed: chicago.csv for Chicago, washington.csv for Washington, and newyork_city.csv for Chicago.
 
 ### Credits
-The Jupyter R notebook is based on a short starter code with instructions and data file import provided by Udacity. This GitHub repository was forked from https://github.com/udacity/pdsnd_github, and the project files were added to the fork.
+The Jupyter R notebook is based on a short starter code with instructions and data file import provided by Udacity. This GitHub repository was forked from [https://github.com/udacity/pdsnd_github](https://github.com/udacity/pdsnd_github), and the project files were added to the fork.
